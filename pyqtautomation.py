@@ -1,6 +1,5 @@
 import os
 from colorama import *
-import pathlib
 
 print("WELCOME TO PYQT5automation-tool v0.0.1")
 
